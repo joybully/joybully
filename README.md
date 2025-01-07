@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Joybully's GitHub stats](https://github-readme-stats.vercel.app/api?username=joybully&theme=radical)](https://github.com/joybully/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hallelujah)](https://solved.ac/hallelujah/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joybully)](https://github.com/joybully/github-readme-stats)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
